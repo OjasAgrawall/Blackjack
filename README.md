@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Blackjack
+=======
+# Overview
+>>>>>>> b880b36 (Update README.md)
 A simple blackjack game that saves your money after you are done gambling!
 
 # Requirements 
